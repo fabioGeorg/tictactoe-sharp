@@ -1,0 +1,10 @@
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\bin\Debug\TicTacToeSharp.exe.config
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\bin\Debug\TicTacToeSharp.exe
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\bin\Debug\TicTacToeSharp.pdb
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp.Form1.resources
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp.Properties.Resources.resources
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp.csproj.GenerateResource.cache
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp.exe
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp.pdb
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp.csproj.AssemblyReference.cache
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Debug\TicTacToeSharp.csproj.CoreCompileInputs.cache

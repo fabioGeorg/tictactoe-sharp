@@ -1,0 +1,10 @@
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\bin\Release\TicTacToeSharp.exe.config
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\bin\Release\TicTacToeSharp.exe
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\bin\Release\TicTacToeSharp.pdb
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Release\TicTacToeSharp.Form1.resources
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Release\TicTacToeSharp.Properties.Resources.resources
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Release\TicTacToeSharp.csproj.GenerateResource.cache
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Release\TicTacToeSharp.exe
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Release\TicTacToeSharp.pdb
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Release\TicTacToeSharp.csproj.AssemblyReference.cache
+G:\VisualStudioProjects\TicTacToeSharp\TicTacToeSharp\obj\Release\TicTacToeSharp.csproj.CoreCompileInputs.cache
